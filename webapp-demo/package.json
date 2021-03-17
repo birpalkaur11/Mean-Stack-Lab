@@ -1,0 +1,21 @@
+{
+  "name": "webapp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mean",
+    "mango",
+    "express",
+    "angular",
+    "Nodejs"
+  ],
+  "author": "birpal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
